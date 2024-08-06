@@ -11,4 +11,4 @@
 
 > Kullanım
 - !logkur
-- !kategorisil <kategoriadi>
+- !kategorisil kategoriadı
