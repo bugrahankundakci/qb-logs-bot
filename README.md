@@ -1,8 +1,8 @@
-# new qb için bot.
+# New qb için bot.
 
-## log odalarını ve webhooklarını oluşturan bot.
+## Log odalarını ve webhooklarını oluşturan bot.
 
-- kurulum
+- Kurulum
 > npm init -y
 > npm i discord.js stream
 
